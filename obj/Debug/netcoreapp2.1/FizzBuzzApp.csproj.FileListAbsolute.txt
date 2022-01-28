@@ -1,0 +1,13 @@
+C:\Users\jBenzy\source\repos\FizzBuzzApp\bin\Debug\netcoreapp2.1\FizzBuzzApp.deps.json
+C:\Users\jBenzy\source\repos\FizzBuzzApp\bin\Debug\netcoreapp2.1\FizzBuzzApp.runtimeconfig.json
+C:\Users\jBenzy\source\repos\FizzBuzzApp\bin\Debug\netcoreapp2.1\FizzBuzzApp.runtimeconfig.dev.json
+C:\Users\jBenzy\source\repos\FizzBuzzApp\bin\Debug\netcoreapp2.1\FizzBuzzApp.dll
+C:\Users\jBenzy\source\repos\FizzBuzzApp\bin\Debug\netcoreapp2.1\FizzBuzzApp.pdb
+C:\Users\jBenzy\source\repos\FizzBuzzApp\obj\Debug\netcoreapp2.1\FizzBuzzApp.csproj.AssemblyReference.cache
+C:\Users\jBenzy\source\repos\FizzBuzzApp\obj\Debug\netcoreapp2.1\FizzBuzzApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jBenzy\source\repos\FizzBuzzApp\obj\Debug\netcoreapp2.1\FizzBuzzApp.AssemblyInfoInputs.cache
+C:\Users\jBenzy\source\repos\FizzBuzzApp\obj\Debug\netcoreapp2.1\FizzBuzzApp.AssemblyInfo.cs
+C:\Users\jBenzy\source\repos\FizzBuzzApp\obj\Debug\netcoreapp2.1\FizzBuzzApp.csproj.CoreCompileInputs.cache
+C:\Users\jBenzy\source\repos\FizzBuzzApp\obj\Debug\netcoreapp2.1\FizzBuzzApp.dll
+C:\Users\jBenzy\source\repos\FizzBuzzApp\obj\Debug\netcoreapp2.1\FizzBuzzApp.pdb
+C:\Users\jBenzy\source\repos\FizzBuzzApp\obj\Debug\netcoreapp2.1\FizzBuzzApp.genruntimeconfig.cache
